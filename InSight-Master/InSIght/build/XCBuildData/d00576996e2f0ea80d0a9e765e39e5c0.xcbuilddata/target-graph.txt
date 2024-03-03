@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'InSIght' in project 'InSIght'
+➜ Explicit dependency on target 'CHGlassmorphismView' in project 'CHGlassmorphismView'
+Target 'CHGlassmorphismView' in project 'CHGlassmorphismView'
+➜ Explicit dependency on target 'CHGlassmorphismView' in project 'CHGlassmorphismView'
+Target 'CHGlassmorphismView' in project 'CHGlassmorphismView' (no dependencies)

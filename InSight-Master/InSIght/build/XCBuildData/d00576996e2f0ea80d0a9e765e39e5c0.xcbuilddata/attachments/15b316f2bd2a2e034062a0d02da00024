@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIght-master.dia",
+    "emit-module-dependencies" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIght-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIght-master-emit-module.dia",
+    "swift-dependencies" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIght-master.swiftdeps"
+  },
+  "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/aaquib/Developer/InSIght/InSIght/ContentView.swift" : {
+    "const-values" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/aaquib/Developer/InSIght/InSIght/InSIghtApp.swift" : {
+    "const-values" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIghtApp.swiftconstvalues",
+    "dependencies" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIghtApp.d",
+    "diagnostics" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIghtApp.dia",
+    "index-unit-output-path" : "/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIghtApp.o",
+    "llvm-bc" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIghtApp.bc",
+    "object" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIghtApp.o",
+    "swift-dependencies" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIghtApp.swiftdeps",
+    "swiftmodule" : "/Users/aaquib/Developer/InSIght/build/InSIght.build/Debug-iphoneos/InSIght.build/Objects-normal/arm64/InSIghtApp~partial.swiftmodule"
+  }
+}
